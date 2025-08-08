@@ -13,4 +13,5 @@ int main() {
     return 0;
 }
 My life at AUB has been full of learning and experiences.
-
+echo "// Change in B1" >> program.c
+echo "This is change in B1" >> life_at_aub.txt
