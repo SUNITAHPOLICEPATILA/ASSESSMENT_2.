@@ -13,5 +13,16 @@ int main() {
     return 0;
 }
 My life at AUB has been full of learning and experiences.
+ b1
 echo "// Change in B1" >> program.c
 echo "This is change in B1" >> life_at_aub.txt
+git add program.c life_at_aub.txt
+echo "// Added by me" >> program.c
+echo "I joined many clubs." >> life_at_aub.txt
+echo "// Change in B2" >> program.c
+echo "This is change in B2" >> life_at_aub.txt
+echo "// Change in B3" >> program.c
+echo "This is change in B3" >> life_at_aub.txt
+
+
+master
