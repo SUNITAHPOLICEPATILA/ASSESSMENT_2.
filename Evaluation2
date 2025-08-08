@@ -14,5 +14,5 @@ int main() {
 }
 My life at AUB has been full of learning and experiences.
 git add program.c life_at_aub.txt
-
+echo "// Added by me" >> program.c
 
